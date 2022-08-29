@@ -1,12 +1,12 @@
+dasdasd
+
+
+---- :) okd saijdiasj d
+
 123212
 
 # mantel-gitbasics
 mantel-gitbasics
-
-Hey trainees! How is the git training going? I hope you're gitting it.
-
-... git it? 
-
 
 Knock Knock 
 
@@ -18,4 +18,15 @@ Who
 Who who?
 
 Hi owl
+
+
+dasdsaa
+
+Hey trainees! How is the git training going? I hope you're gitting it.
+
+hellroasdo asodoa s
+
+... git it? 
+
+
 
