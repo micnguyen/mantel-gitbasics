@@ -1,7 +1,23 @@
 dasdasd
 
+
+---- :) okd saijdiasj d
+
+123212
+
 # mantel-gitbasics
 mantel-gitbasics
+
+Knock Knock 
+
+Who's there?
+
+
+Who
+
+Who who?
+
+Hi owl
 
 
 dasdsaa
@@ -12,5 +28,5 @@ hellroasdo asodoa s
 
 ... git it? 
 
-... okay, that was bad.
+
 
