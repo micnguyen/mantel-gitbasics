@@ -26,9 +26,7 @@ Hey trainees! How is the git training going? I hope you're gitting it.
 
 hellroasdo asodoa s
 
-... git it? 
-
-//NB edit: Edit to check github settings and auth
+... git it?
 
 
 
